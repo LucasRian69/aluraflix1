@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    border-bottom: solid 2px black;
+    border-bottom: solid 2px purple;
     padding: 20px;
     font-size: 32px;
     color:aqua;
@@ -19,4 +19,12 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
 }
